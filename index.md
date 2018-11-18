@@ -2,9 +2,9 @@
 title: Home
 layout: home
 landing-title: Hi, Welcome to Nativeka!
-description:
-image:
-author:
+description: 
+image: 
+author: 
 show_tile: false
 ---
 
