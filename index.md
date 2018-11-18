@@ -1,10 +1,10 @@
 ---
 title: Home
 layout: home
-landing-title: Hi, Welcome to Nativeka!
-description: 
-image: 
-author: 
+landing-title: What We Do?
+description:
+image:
+author:
 show_tile: false
 ---
 
