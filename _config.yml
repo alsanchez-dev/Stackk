@@ -1,5 +1,5 @@
 ---
-title: Forty
+title: NATIVEKA
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: by HTML5 UP
+subtitle: We focus on NodeJS, Wix Code, Python Flask, React, Jasonette, Kony
 email: youremailaddress@gmail.com
 description: We work with awesome people and companies from USA,<br /> Canada, Australia to turn ideas into digital products!
 baseurl: ''
