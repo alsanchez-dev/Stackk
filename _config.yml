@@ -10,11 +10,13 @@ collections:
     output: true
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under
-  the Creative Commons.
+description: We work with awesome people and companies from
+​USA, Canada, England, Australia, India to turn ideas into digital products!
+​We proudly use Wix Code, NodeJS, Weebly CMS, Python, Thunkable, Jasonette, Kony
+
 baseurl: ''
 url: https://www.nativeka.tk
-author: 
+author:
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -23,16 +25,16 @@ country: United States of America
 phone: "(716) 555-5555"
 tiles-source: pages
 tiles-count: 6
-500px_url: 
-facebook_url: 
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+500px_url:
+facebook_url: https://facebook.com
+github_url: https://github.com/auniverse4
+gitlab_url:
+googleplus_url:
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url: 
-slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+linkedin_url: https://www.linkedin.com/company/nativeka
+pinterest_url:
+slack_url:
+twitter_url:
 markdown: kramdown
 sass:
   style: compressed
