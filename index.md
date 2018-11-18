@@ -1,10 +1,10 @@
 ---
 title: Home
 layout: home
-landing-title: Hi, my name is Forty
-description: 
-image: 
-author: 
+landing-title: Hi, Welcome to Nativeka we love to develop software and support free open source!
+description:
+image:
+author:
 show_tile: false
 ---
 
