@@ -1,11 +1,10 @@
 ---
 title: Home
 layout: home
-landing-title: Hi, Welcome to Nativeka we love to develop software and support free
-  open source!
-description: 
-image: 
-author: 
+landing-title: Hi, Welcome to Nativeka!
+description:
+image:
+author:
 show_tile: false
 ---
 
