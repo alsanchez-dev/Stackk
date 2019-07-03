@@ -14,12 +14,12 @@ description: WE ARE STAKK! PREVIOUSLY NATIVEKA NodeJS, Wix Code, Jekyll, JavaScr
 baseurl: ''
 url: https://www.nativeka.tk
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address:
+city: Alajuela
+state: Alajuela
 zip_code: 55555
-country: United States of America
-phone: "(716) 555-5555"
+country: Costa Rica
+phone: "(506) 6468-8599"
 tiles-source: pages
 tiles-count: 6
 500px_url:
